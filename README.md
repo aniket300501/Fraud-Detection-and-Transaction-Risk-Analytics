@@ -1,4 +1,4 @@
-# Fraud-Detection-and-Transaction-Risk-Analytics
+# Fraud Detection and Transaction Risk Analytics
 
 This project develops an **end-to-end fraud detection framework** for credit card transactions, with a strong focus on **business-driven decision making rather than pure model accuracy**. The objective is to detect fraudulent transactions effectively while balancing **financial loss, customer friction, and operational cost**, reflecting how fraud systems operate in real payment and fintech environments.
 
